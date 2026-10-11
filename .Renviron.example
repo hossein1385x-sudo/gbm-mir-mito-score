@@ -1,0 +1,2 @@
+# Copy to .Renviron (it is git-ignored) and edit.
+GBM_WORK_DIR="D:/gbm_work"

@@ -1,0 +1,10 @@
+# data / results live outside the repo (see config.R)
+work/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+.Renviron
+# generated documents
+*.docx
+r_temp/
